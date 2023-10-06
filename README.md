@@ -9,4 +9,12 @@
 
 __Step 1 – Clock In (Screenshot 1)__
 
-![](image002.png)
+![](clockin.png)
+
+__Step 2 – Clock In Save (Screenshot 2)__
+
+![](clockinsave.png)
+
+__Step 3 – Clock In (Screenshot 3)__
+
+![](clockout.png)
