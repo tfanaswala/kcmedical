@@ -15,6 +15,6 @@ __Step 2 – Clock In Save (Screenshot 2)__
 
 ![](clockinsave.PNG)
 
-__Step 3 – Clock In (Screenshot 3)__
+__Step 3 – Clock Out (Screenshot 3)__
 
 ![](clockout.PNG)
