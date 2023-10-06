@@ -8,4 +8,4 @@
 4.	And then tap on your name at the top of the screen.  Highlighted by the Red box (see screenshot 3).  On doing this, the app will stop recording time and will calculate the duration you have worked.
 
 |__Step 1 – Clock In (Screenshot 1)__|
-![](image001.png)
+|![](image002.png)|
