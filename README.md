@@ -30,4 +30,6 @@ __Step 3 – Clock Out (Screenshot 3)__
 4.  Take the picture of the document
 5.  
 
+dfdf kdf dkjdf 
 ![](imagesButton.png)
+![](clockin.PNG)
