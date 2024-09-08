@@ -29,3 +29,5 @@ __Step 3 – Clock Out (Screenshot 3)__
 ![](imagesform.png)
 4.  Take the picture of the document
 5.  
+
+![](imagesButton.png)
