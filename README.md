@@ -18,3 +18,14 @@ __Step 2 – Clock In Save (Screenshot 2)__
 __Step 3 – Clock Out (Screenshot 3)__
 
 ![](clockout.PNG)
+
+## Steps to take photos of Documents
+
+1.  Tap on the menu button "Images" at the bottom of the screen.  Highlighted by the Red box (see screen shot 4 below)
+![](imagesButton.png)
+2.  And then tap on the "+" button.  Highlighted by the Red box (see screen shot 5 below)
+![](imagesadd.png)
+3.  On the form that opens, click on the camera icon.  Highlighted by the Red box (see screen shot 6 below)
+![](imagesform.png)
+4.  Take the picture of the document
+5.  
