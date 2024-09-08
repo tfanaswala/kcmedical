@@ -21,15 +21,26 @@ __Step 3 – Clock Out (Screenshot 3)__
 
 ## Steps to take photos of Documents
 
-1.  Tap on the menu button "Images" at the bottom of the screen.  Highlighted by the Red box (see screen shot 4 below)
-![](ImagesButton.png)
-2.  And then tap on the "+" button.  Highlighted by the Red box (see screen shot 5 below)
-![](imagesadd.png)
-3.  On the form that opens, click on the camera icon.  Highlighted by the Red box (see screen shot 6 below)
-![](imagesform.png)
-4.  Take the picture of the document
+1.  Tap on the menu button "Images" at the bottom of the screen.  Highlighted by the Red box (see screen shot below)
+
+![](ImagesButton.PNG)
+
+2.  And then tap on the "+" button.  Highlighted by the Red box (see screen shot below)
+
+![](ImagesAdd.PNG)
+
+3.  On the form that opens, click on the camera icon.  Highlighted by the Red box (see screen shot below)
+
+![](Imageform.PNG)
+
+4.  Take the picture of the document.  After you have taken the picture, you will be brought back to the screen below
+
+![](ImageAfterCapture.PNG)
+
 5.  
 
+6.  
+
 dfdf kdf dkjdf 
-![](imagesButton.png)
+![](ImagesButton.PNG)
 ![](clockin.PNG)
